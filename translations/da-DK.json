@@ -1,0 +1,32 @@
+{
+  "account.heading.my_account": {
+    "defaultMessage": "Mine detaljer"
+  },
+  "header.popover.title.my_account": {
+    "defaultMessage": "Min konto"
+  },
+  "global.account.link.order_history": {
+    "defaultMessage": "Ordrehistorik"
+  },
+  "global.account.link.account_details": {
+    "defaultMessage": "Mine detaljer"
+  },
+  "global.account.link.wishlist": {
+    "defaultMessage": "Wishlist"
+  },
+  "checkout_payment.title.payment": {
+    "defaultMessage": "Kort"
+  },
+  "global.account.link.addresses": {
+    "defaultMessage": "Min adressebog"
+  },
+  "header.popover.action.log_out": {
+    "defaultMessage": "Log ud"
+  },
+  "account.logout_button.button.log_out": {
+    "defaultMessage": "Log ud"
+  },
+  "account.accordion.button.my_account": {
+    "defaultMessage": "Min konto"
+  }
+}
